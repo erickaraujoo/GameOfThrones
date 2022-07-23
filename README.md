@@ -1,14 +1,12 @@
 # GAME OF THRONES - SITE
-- - -
 
-    O site foi criado com o objetivo do cumprimento avaliatório da disciplina de Desenvolvimento WEB do curso técnico de Desenvolvimento de Sistemas, realizado na escola técnica profissionalizante SENAI Prof. "Vicente Amato".
+O site foi criado com o objetivo do cumprimento avaliatório da disciplina de Desenvolvimento WEB do curso técnico de Desenvolvimento de Sistemas, realizado na escola técnica profissionalizante SENAI Prof. "Vicente Amato".
 
 ## Propostas e Requisitos
-- - -
 
-    Foi solicitado para o aluno criar um site, com o tema aberto e escolhido pelo próprio aluno, onde deveria ser de fácil manuseio, como a exploração do site por meio de navegadores, uso de imagens para agradar o usuário, entre outras propostas. 
-    O site segue o layout de antigamente, quando não existia linguagem de estilização, ou seja, apenas usava tags como table e suas propriedades por exemplo.
-    Atualmente esse tipo de layout não é recomendado, e nem usado para criação de sites, porém é uma forma de mostrar ao usuário como a tecnologia se transformou em tão pouco tempo.
+Foi solicitado para o aluno criar um site, com o tema aberto e escolhido pelo próprio aluno, onde deveria ser de fácil manuseio, como a exploração do site por meio de navegadores, uso de imagens para agradar o usuário, entre outras propostas. 
+O site segue o layout de antigamente, quando não existia linguagem de estilização, ou seja, apenas usava tags como table e suas propriedades por exemplo.
+Atualmente esse tipo de layout não é recomendado, e nem usado para criação de sites, porém é uma forma de mostrar ao usuário como a tecnologia se transformou em tão pouco tempo.
     
 - Para a forma de planejamento do site, foi seguido as etapas propostas, como:
 
@@ -21,10 +19,8 @@
     * Usar cores que agradem o usuário e que combinem com o tema escolhido;
     
     * Criar uma estrutura do site onde não poderá ser desfeita de acordo com a resolução da tela ou com Zoom no navegador;
-    
-    
+
 ## Tecnologias Utilizadas
-- - -
 
 ### HTML
 
